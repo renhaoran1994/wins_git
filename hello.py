@@ -1,1 +1,4 @@
-pirnt("hello world")
+
+def hello():
+  pirnt("hello world")
+
