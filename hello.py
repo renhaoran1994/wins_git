@@ -1,2 +1,3 @@
-pirnt("hello world")
-print("hello python")
+
+def hello():
+  pirnt("hello world")
